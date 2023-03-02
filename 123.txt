@@ -1,0 +1,10 @@
+[SystemSettings]
+r.Streaming.PoolSize=768
+
+[/script/engine.renderersettings]
+r.Streaming.HLODStrategy=0
+
+
+
+
+
